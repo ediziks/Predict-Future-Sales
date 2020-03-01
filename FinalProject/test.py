@@ -23,6 +23,7 @@
 # hocam nolacaka bizim bu halimiz be
 # sürünerek geldik bugünlere bilerek
 # harcıra harcıra kişiliğimizi sürerek
+# bu da mı gol değil diyerek
 
 # %% [markdown]
 # # Part 1, perfect features

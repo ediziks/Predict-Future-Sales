@@ -20,6 +20,9 @@
 # * select best features
 # * set validation strategy 34 test, 33 validation, less than 33 train
 # * fit the model, predict and clip targets for the test set
+# hocam nolacaka bizim bu halimiz be
+# sürünerek geldik bugünlere bilerek
+# harcıra harcıra kişiliğimizi sürerek
 
 # %% [markdown]
 # # Part 1, perfect features

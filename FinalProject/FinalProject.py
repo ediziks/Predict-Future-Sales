@@ -67,7 +67,7 @@ pd.options.display.float_format = '{:20,.2f}'.format
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('classic')
-get_ipython().run_line_magic('matplotlib', 'tk')
+#get_ipython().run_line_magic('matplotlib', 'tk')
 import seaborn as sns
 
 # Utilities

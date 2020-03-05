@@ -112,10 +112,12 @@ from sklearn.externals import joblib
 path = 'data/'
 
 # Training set. Daily historical data from January 2013 to October 2015.
-train = pd.read_csv(path+'sales_train.csv.gz')
+#train = pd.read_csv(path+'sales_train.csv.gz')
+train = pd.read_csv(path+'sales_train.csv')
 
 # Testing set. You need to forecast the sales for these shops and products for November 2015.
-test = pd.read_csv(path+'test.csv.gz').set_index('ID')
+#test = pd.read_csv(path+'test.csv.gz').set_index('ID')
+test = pd.read_csv(path+'test.csv').set_index('ID')
 
 # Additional information
 items = pd.read_csv(path+'items.csv')
